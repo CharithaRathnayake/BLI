@@ -8,10 +8,7 @@ This repository contains the evaluation dictionaries created for the paper *"Uns
 For the EnPj language pair, a single evaluation dataset was created.  
 
 ### English-Sinhala (EnSi)  
-For the EnSi language pair, three evaluation datasets are included:  
-1. **Google Translation-Based Dataset**: Generated using the Google Translation tool.  
-2. **Human-Created High-Frequency Dataset**: Manually created for high-frequency words.  
-3. **Human-Created Low-Frequency Dataset**: Manually created for low-frequency words.  
+For the EnSi language pair, one evaluation dataset was created using the Google Translation tool.  
 
 The process of creating these datasets, including the thresholds and methodologies used, is detailed in the paper.  
 
